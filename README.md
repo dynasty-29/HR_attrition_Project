@@ -1,2 +1,4 @@
 # HR_attrition_Project
-Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
+To understand causes of high turn over in a organization
+
+
